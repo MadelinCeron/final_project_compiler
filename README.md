@@ -50,3 +50,10 @@ Ese resultado significa que el proyecto base **compila y está listo para usar**
 - No agregar librerías externas.
 - No modificar los tests para ocultar fallos.
 - Implementar la solución dentro de `src/`.
+
+
+
+#comprobante 
+
+https://docs.google.com/document/d/193sCnAKDDZOZuptYk7v9NGpIBN9aj5mftbXTNLHal8k/edit?usp=sharing
+
